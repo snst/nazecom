@@ -1,0 +1,17 @@
+<package>
+  <description brief="nazecom">
+
+     nazecom
+
+  </description>
+  <author>stsc</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/nazecom</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+

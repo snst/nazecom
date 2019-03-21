@@ -1,0 +1,4 @@
+.vscode/ipch/*
+build/*
+lib/*
+msg_gen/lisp/*

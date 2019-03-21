@@ -1,0 +1,7 @@
+rosnode list
+
+rosnode info /nodename
+
+rosrun rqt_graph rqt_graph
+
+rostopic echo /topicname
